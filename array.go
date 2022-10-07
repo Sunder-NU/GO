@@ -15,8 +15,8 @@ fmt.Println(arr[i])
 }
 
 // Double dimention array
-arr2 := [3][3]string{{"C #", "C", "Python"}, {"Java", "Scala", "Perl"},
-        {"C++", "Go", "HTML"}}
+arr2 := [3][3]string{{"C#", "C", "C++"}, {"Java", "GO", "NodeJS"},
+        {"Javascript", "CSS", "HTML"}}
   
 
     fmt.Println("Elements of Array 1")
